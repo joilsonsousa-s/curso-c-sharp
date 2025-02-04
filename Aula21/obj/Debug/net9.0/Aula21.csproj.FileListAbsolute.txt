@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\bin\Debug\net9.0\Aula21.exe
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\bin\Debug\net9.0\Aula21.deps.json
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\bin\Debug\net9.0\Aula21.runtimeconfig.json
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\bin\Debug\net9.0\Aula21.dll
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\bin\Debug\net9.0\Aula21.pdb
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.AssemblyInfo.cs
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.dll
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\refint\Aula21.dll
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.pdb
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\Aula21.genruntimeconfig.cache
+C:\Users\Cliente\Documents\estudos\curso-c#\Aula21\obj\Debug\net9.0\ref\Aula21.dll

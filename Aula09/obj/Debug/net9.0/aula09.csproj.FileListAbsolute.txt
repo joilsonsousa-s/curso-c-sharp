@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\bin\Debug\net9.0\aula09.exe
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\bin\Debug\net9.0\aula09.deps.json
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\bin\Debug\net9.0\aula09.runtimeconfig.json
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\bin\Debug\net9.0\aula09.dll
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\bin\Debug\net9.0\aula09.pdb
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.AssemblyInfo.cs
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.dll
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\refint\aula09.dll
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.pdb
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\aula09.genruntimeconfig.cache
+C:\Users\Cliente\Documents\estudos\curso-c_sharp\aula09\obj\Debug\net9.0\ref\aula09.dll
